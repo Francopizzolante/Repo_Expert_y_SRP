@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace Ucu.Poo.Expert
 {
@@ -19,15 +20,4 @@ namespace Ucu.Poo.Expert
         }
     }
 
-    public class Library
-    {
-        public string Sector { get; set; }
-        public string Shelve { get; set; }
-
-        public void ShelveBook(Book book, string sector, string shelve)
-        {
-            book.LibrarySector = sector;
-            book.LibraryShelve = shelve;
-        }
-    }
 }
