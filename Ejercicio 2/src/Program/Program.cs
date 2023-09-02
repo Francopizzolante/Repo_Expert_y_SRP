@@ -1,17 +1,35 @@
 ﻿using System;
-using Library;
+using System.Text;
 
-namespace Program
+namespace Library
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string appointmentResult = AppointmentService.CreateAppointment("Steven Jhonson", "986782342", "5555-555-555", DateTime.Now, "Wall Street", "Armand");
-            Console.WriteLine(appointmentResult);
+            var patient = new Patient
+            {
+                Name = "John Doe",
+                Id = "123456",
+                PhoneNumber = "555-555-5555",
+                AppointmentPlace = "Hospital A"
+            };
 
-            string appointmentResult2 = AppointmentService.CreateAppointment("Ralf Manson", "", "5555-555-555", DateTime.Now, "Queen Street", "");
-            Console.WriteLine(appointmentResult2);
+            var doctor = new Doctor
+            {
+                Name = "Dr. Smith"
+            };
+
+            var appointment = new Appointment
+            {
+                Date = DateTime.Now.AddDays(7),
+                Patient = patient,
+                Doctor = doctor
+            };
+
+            string result = AppointmentService.CreateAppointment(appointment);
+
+            Console.WriteLine(result);
         }
     }
 }
