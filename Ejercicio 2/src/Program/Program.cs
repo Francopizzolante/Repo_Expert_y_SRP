@@ -7,7 +7,7 @@ namespace Library
     {
         static void Main(string[] args)
         {
-            var patient = new Patient
+            var patient = new Paciente
             {
                 Name = "John Doe",
                 Id = "123456",

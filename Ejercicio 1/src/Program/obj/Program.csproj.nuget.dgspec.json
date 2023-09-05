@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\franc\\OneDrive - Universidad Católica del Uruguay\\Escritorio\\Programacion2\\Repositorios\\Repo_Expert_y_SRP\\Ejercicio 1\\src\\Program\\Program.csproj": {}
+    "C:\\Users\\franc\\OneDrive - Universidad Católica del Uruguay\\Escritorio\\Programacion2\\Repositorios\\Repo_Expert_y_SRP\\Ejercicio 1\\src\\Program\\Program.csproj": {}
   },
   "projects": {
     "c:\\Users\\franc\\OneDrive - Universidad Católica del Uruguay\\Escritorio\\Programacion2\\Repositorios\\Repo_Expert_y_SRP\\Ejercicio 1\\src\\Library\\Library.csproj": {
@@ -57,14 +57,14 @@
         }
       }
     },
-    "c:\\Users\\franc\\OneDrive - Universidad Católica del Uruguay\\Escritorio\\Programacion2\\Repositorios\\Repo_Expert_y_SRP\\Ejercicio 1\\src\\Program\\Program.csproj": {
+    "C:\\Users\\franc\\OneDrive - Universidad Católica del Uruguay\\Escritorio\\Programacion2\\Repositorios\\Repo_Expert_y_SRP\\Ejercicio 1\\src\\Program\\Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\franc\\OneDrive - Universidad Católica del Uruguay\\Escritorio\\Programacion2\\Repositorios\\Repo_Expert_y_SRP\\Ejercicio 1\\src\\Program\\Program.csproj",
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive - Universidad Católica del Uruguay\\Escritorio\\Programacion2\\Repositorios\\Repo_Expert_y_SRP\\Ejercicio 1\\src\\Program\\Program.csproj",
         "projectName": "Program",
-        "projectPath": "c:\\Users\\franc\\OneDrive - Universidad Católica del Uruguay\\Escritorio\\Programacion2\\Repositorios\\Repo_Expert_y_SRP\\Ejercicio 1\\src\\Program\\Program.csproj",
+        "projectPath": "C:\\Users\\franc\\OneDrive - Universidad Católica del Uruguay\\Escritorio\\Programacion2\\Repositorios\\Repo_Expert_y_SRP\\Ejercicio 1\\src\\Program\\Program.csproj",
         "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\franc\\OneDrive - Universidad Católica del Uruguay\\Escritorio\\Programacion2\\Repositorios\\Repo_Expert_y_SRP\\Ejercicio 1\\src\\Program\\obj\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive - Universidad Católica del Uruguay\\Escritorio\\Programacion2\\Repositorios\\Repo_Expert_y_SRP\\Ejercicio 1\\src\\Program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config"
